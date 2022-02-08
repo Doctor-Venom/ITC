@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461709560666",
+    "project_id": "irontunnelchat",
+    "storage_bucket": "irontunnelchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461709560666:android:c9e98ab61ba1ceb2908163",
+        "android_client_info": {
+          "package_name": "com.venom.itc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461709560666-5phd2peafqo7t2n1900j0pfvrnu4faub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5WJEq5JBjBabYAEse1Vy0wyyI1UVTLdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461709560666-5phd2peafqo7t2n1900j0pfvrnu4faub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

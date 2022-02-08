@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.venom.itc.ChatActivity">
+
+    <item
+        android:id="@+id/action_cryptography_switch"
+        android:checkable="true"
+        android:orderInCategory="100"
+        android:title="Crypto"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_delete_chat"
+        android:orderInCategory="101"
+        android:title="Delete Chat"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_select_keys"
+        android:orderInCategory="102"
+        android:title="Select Keys" />
+</menu>
