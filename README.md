@@ -21,3 +21,8 @@ Goal: provide people with 100% trusted and secured channels for real-time commun
 
 ### General Description
 to use the app, the user will be required to create an account by providing only a username and a password (no personal information), after that he will need to add peers by meeting them in real life and scanning their personal account QR code. Users can send messages only to their peers, messages can be in plaintext or a key can be chosen to encrypt the message, but the other side wont be able to read the encrypted message unless they have scanned the key used for encryption, this will provide the authenticity of both communicating parties for both communicating parties and also create a trusted and secured channel between them, because keys were shared physically which is the most secure and reliable way for key exchange (although not so practical), in addition to that, encryption keys are generated in a secure manner which increases their resistance to any bruteforce (guessing) attacks, compared to keys (secret phrases) that could be created by users themselves.
+
+### TODOs
+ability to send files
+ability to send images/voice/video messages
+added anonimity: route traffic through TOR/L2P network
